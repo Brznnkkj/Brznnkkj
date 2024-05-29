@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil 🌸♟️
 
-<!--
-**Brznnkkj/Brznnkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno Minamihara
 
-Here are some ideas to get you started:
+- Estudo na escola Jeremias Junior
+- Faço o curo Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entrar em contato comigo 📧
+
+  00001123637970sp@al.educacao.sp.gov.br
+
+  @brunin_tm10
+  
+![](https://media1.tenor.com/m/eOIn1K3X1loAAAAd/plink-cat-luna-cat.gif)
