@@ -3,7 +3,7 @@
 Meu nome é Bruno Minamihara
 
 - Estudo na escola Jeremias Junior
-- Faço o curo Alura
+- Faço o curso Alura
 
   ## Você pode entrar em contato comigo 📧
 
